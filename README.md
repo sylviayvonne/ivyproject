@@ -1,5 +1,5 @@
 # ivyproject first project practical.
-ToDo CRUD Application
-Using MERN STack
-Used sytled component
+ToDo design website
+Using html , css , javascript and php for backend
+I used wamp server
 
